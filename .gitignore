@@ -1,0 +1,55 @@
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+/build
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Cache
+.cache
+.parcel-cache
+.next
+.nuxt
+
+# Webpack specific (optional depending on setup)
+webpack-stats.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Coverage reports
+/coverage
+
+# TypeScript (if used)
+/*.tsbuildinfo
+
+# Optional: lock files (choose based on your team policy)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Misc
+*.log
